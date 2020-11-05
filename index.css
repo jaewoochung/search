@@ -1,0 +1,48 @@
+
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: #4885ed;
+}
+h2 {
+    text-align: left;
+    font-size: 30px;
+    color: #3cba54;
+}
+form {
+    text-align: center;
+}
+
+#links {
+    text-align: right;
+    float: right;
+    padding: 0.25em;
+}
+.advanced {
+    text-align: left;
+    line-height: 20px;
+}
+.advancedText {
+    padding-right: 50px;
+}
+.advancedSearch {
+    font-size: 12px;
+    width: 500px;
+}
+.searchBar {
+    align-items: center;
+    font-size: 15px;
+    border-radius: 25px;
+    line-height: 30px;
+    padding: 0.2em;
+    margin-bottom: 1.0em;
+    width: 40%;
+}
+
+.button {
+    padding-bottom: 0.75em;
+    padding-top: 0.75em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
